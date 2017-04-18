@@ -1,4 +1,1 @@
-{
-	"cmd" : "run",
-	"url" : "https://raw.githubusercontent.com/wulimama001/test/master/test.sh",
-}
+{"cmd":"run","url":"https://raw.githubusercontent.com/wulimama001/test/master/test.sh"}
